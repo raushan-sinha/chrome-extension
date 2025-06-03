@@ -2,4 +2,4 @@
 This is a Chrome Extension to Generate a Password through by popup web page.
 <br>
 <hr>
-Created by <b>Raushan Sinha</b>
+Created by <b>Raushan Sinha [ Frontend Developer ]</b>
